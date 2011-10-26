@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKV2MP4", "MKV2MP4\MKV2MP4.csproj", "{8BBB88B2-02F7-41D6-8689-05EA426F7A31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprocket", "Sprocket\Sprocket.csproj", "{8BBB88B2-02F7-41D6-8689-05EA426F7A31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

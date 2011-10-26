@@ -7,7 +7,7 @@ using System.ComponentModel;
 using System.Runtime.Remoting.Messaging;
 using System.Diagnostics;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     abstract class ExternalProcess
     {

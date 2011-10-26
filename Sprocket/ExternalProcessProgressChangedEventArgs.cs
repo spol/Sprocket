@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.ComponentModel;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class ExternalProcessProgressChangedEventArgs : ProgressChangedEventArgs
     {

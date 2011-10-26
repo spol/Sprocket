@@ -5,7 +5,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Text.RegularExpressions;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class MkvInfo
     {

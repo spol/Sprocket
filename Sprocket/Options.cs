@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using CommandLine;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class Options
     {

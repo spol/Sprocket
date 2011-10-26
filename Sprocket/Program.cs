@@ -7,7 +7,7 @@ using System.IO;
 using System.Threading;
 using System.ComponentModel;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class Program
     {

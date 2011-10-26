@@ -8,7 +8,7 @@ using System.Runtime.Remoting.Messaging;
 using System.Text.RegularExpressions;
 using System.Threading;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class MP4Box : ExternalProcess
     {

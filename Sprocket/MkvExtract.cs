@@ -8,7 +8,7 @@ using System.Threading;
 using System.ComponentModel;
 using System.Runtime.Remoting.Messaging;
 
-namespace MKV2MP4
+namespace Sprocket
 {
     class MkvExtract : ExternalProcess
     {
